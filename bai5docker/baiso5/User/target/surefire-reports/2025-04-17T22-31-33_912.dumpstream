@@ -1,0 +1,5 @@
+# Created at 2025-04-17T22:31:34.136
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ky_2_nam2\Application Development Practices\khocdiem\bai5docker\baiso5\User\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
